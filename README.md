@@ -8,5 +8,5 @@ Please kindly cite above paper if you used any of the functions or algorithms li
 
 Matlab code:
 
-DDM_CCP.m -> Matlab implementation of the discrete equivalent wing crack based damage model at Gauss Point
+MBDD.m -> Matlab implementation of the discrete equivalent wing crack based damage model at Gauss Point
 
